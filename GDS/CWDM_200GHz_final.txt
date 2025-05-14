@@ -1,0 +1,16 @@
+% X-coord, Y-coord, Polarization, wavelength, type, deviceID, params 
+1589, -190, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 3
+1071, 191, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 1
+1589, 191, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 4
+1589, 64, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 5
+1589, -63, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 7
+1071, -63, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 8
+1390, -63, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 6
+1390, 64, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 3
+1390, 191, out, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 2
+1390, -190, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 2
+1071, 64, TE, 1550, openEBL, EDILBERTO, CWDM, 200GHz, 1
+
+% X-coord, Y-coord, deviceID, padName, params 
+
+% X-coord, Y-coord, recipeID, params 
